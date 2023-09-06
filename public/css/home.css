@@ -1,0 +1,22 @@
+.container1 {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+#gambar {
+    float: left;
+    width: 48%;
+    border-radius: 25px;
+}
+.text {
+    align-items: center;
+    height: 550px;
+    text-align: center;
+    position: relative;
+}
+h1 {
+    font-family: Long Cang;
+    font-size: 70px;
+}
+h4 {
+    font-family: Laila;
+}

@@ -1,0 +1,26 @@
+body {
+    font-family: Secular One;
+}
+.container4 {
+    border-top: 0px;
+    border-bottom: 2px solid;
+    border-left: 0px;
+    border-right: 0px;
+    margin-top: 50px;
+    overflow: auto;
+}
+.jak,
+.bang,
+.par,
+.ber,
+.sto,
+.nyk {
+    border-top: 0px;
+    border-bottom: 2px solid;
+    border-left: 0px;
+    border-right: 0px;
+    margin-top: 20px;
+}
+.pertama h4 {
+    float: right;
+}
